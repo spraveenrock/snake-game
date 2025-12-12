@@ -63,7 +63,7 @@ The game automatically saves your top 10 highest scores locally in your browser.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CTechDigitalpt/sneaky-snake-game.git
+   git clone https://github.com/spraveenrock/snake-game.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -73,26 +73,7 @@ The game automatically saves your top 10 highest scores locally in your browser.
 
 No additional dependencies or installations required!
 
-## Contributing
 
-Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements.
-
-## Support
-
-If you enjoy this game and would like to support its continued development, please consider making a donation:
-
-[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=FBG94CBRX3T5N)
-
-[Donate via Patreon](https://www.patreon.com/ctechdigital)
-
-[Donate via Ko-Fi](https://ko-fi.com/ctechdigitalcom)
-
-
-Your support helps maintain and improve this project and others. Thank you!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
